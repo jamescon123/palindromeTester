@@ -1,0 +1,1 @@
+# palindromeTester for Hootsuite
