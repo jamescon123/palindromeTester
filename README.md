@@ -1,1 +1,1 @@
-# palindromeTester for Hootsuite
+# palindromeTester
